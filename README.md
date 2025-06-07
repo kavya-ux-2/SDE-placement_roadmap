@@ -13,6 +13,9 @@ Phase 1: Core Java Notes
     Loops: for, while, do-while
 
     Conditionals: if, if-else, switch
+    
+    #Best Resource: https://youtu.be/aQatrXw0njs?si=DN3cO20e8MhkSJ3e
+    #Best Resource(for begginers) : https://youtu.be/ZFnRvpxpnOc?si=P86pzifd35770XMX9 
 
 ✅ OOP Concepts
 
@@ -23,6 +26,9 @@ Phase 1: Core Java Notes
     Polymorphism: Method overloading and overriding
 
     Abstraction: Interfaces and Abstract classes
+    
+    #Best Resource: https://youtu.be/a199KZGMNxk?si=_vjFTOLOvHIa-QJZ
+    #Best Resource(for begginers) : https://youtu.be/ZFnRvpxpnOc?si=P86pzifd35770XMX9 
 
 ✅ Java 8 Features
 
@@ -41,6 +47,8 @@ Phase 1: Core Java Notes
     Map: HashMap, TreeMap
 
     Queue: PriorityQueue
+    
+    #Best Resource: https://youtu.be/rzA7UJ-hQn4?si=ujCrDt4O1lfiaohO
 
 📘 Phase 2: DSA in Java
 ✅ Arrays & Strings
@@ -111,6 +119,9 @@ Phase 1: Core Java Notes
     Movie Ticket Booking
 
 📘 Phase 4: Java Backend
+
+#Best Resource: https://youtu.be/fmX84zu-5gs?si=AlnBAvv_PJ9yxMGt
+
 ✅ Spring Boot Essentials
 
     @SpringBootApplication, @RestController, @Service
@@ -136,6 +147,7 @@ Phase 1: Core Java Notes
     JWT Authentication
 
     Postman for testing
+   
 
 📘 Phase 5: Database + System Design
 ✅ SQL
